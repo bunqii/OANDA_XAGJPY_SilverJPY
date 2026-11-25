@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_XAGJPY_SilverJPY_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_XAGJPY_SilverJPY_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1780,
+  "row_count": 1781,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 5525
   },
   "last_candle": {
-    "time": 1795384800,
-    "Time": "2026-11-22T22:00:00.000000000Z",
-    "open": 6682.5,
-    "high": 7053.5,
-    "low": 6597.4,
-    "close": 6863.4,
-    "volume": 476621
+    "time": 1795471200,
+    "Time": "2026-11-23T22:00:00.000000000Z",
+    "open": 6898.2,
+    "high": 6996.7,
+    "low": 6476.4,
+    "close": 6517.5,
+    "volume": 464693
   },
   "csv_file": "OANDA_XAGJPY_SilverJPY_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1780,
+  "csv_row_count": 1781,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 5525
   },
   "csv_last_candle": {
-    "time": 1795384800,
-    "Time": "2026-11-22T22:00:00.000000000Z",
-    "open": 6682.5,
-    "high": 7053.5,
-    "low": 6597.4,
-    "close": 6863.4,
-    "volume": 476621
+    "time": 1795471200,
+    "Time": "2026-11-23T22:00:00.000000000Z",
+    "open": 6898.2,
+    "high": 6996.7,
+    "low": 6476.4,
+    "close": 6517.5,
+    "volume": 464693
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-24T09:55:37.000000000Z",
-  "generated_at": "2026-11-24T09:55:37.000000000Z",
+  "verified_at": "2026-11-25T08:17:15.000000000Z",
+  "generated_at": "2026-11-25T08:17:15.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-18T22:00:00Z",
-        "to": "2026-11-23T22:00:00Z",
+        "from": "2026-11-21T22:00:00Z",
+        "to": "2026-11-24T22:00:00Z",
         "code": 200,
         "msg": "OK"
       }
